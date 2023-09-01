@@ -1,1 +1,1 @@
-Netflix-Clone Using Nextjs
+Movie showcase app 
